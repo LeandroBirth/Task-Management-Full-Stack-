@@ -1,0 +1,20 @@
+# Ignore node_modules and build files (React)
+task-management-frontend/node_modules/
+task-management-frontend/build/
+task-management-frontend/.env
+task-management-frontend/.DS_Store  # MacOS system file
+
+# Ignore Java compiled files and dependencies (Spring Boot - Task-Management)
+Task-Management/target/
+Task-Management/.gradle/
+Task-Management/.mvn/
+Task-Management/.idea/
+Task-Management/.classpath
+Task-Management/.project
+Task-Management/.settings/
+
+# Ignore system files
+*.log
+*.iml
+.DS_Store
+Thumbs.db
