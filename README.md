@@ -35,6 +35,7 @@ Task Management is a full-stack web application designed to help users efficient
 - H2 Database for development and testing
 
 ## To-Do
+- Apply Docker for easier integration and running.
 - Improve authentication and authorization
 - Enhance error handling
 - Implement Docker for containerized deployment
